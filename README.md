@@ -1,1 +1,0 @@
-# ZoalTech Blog
