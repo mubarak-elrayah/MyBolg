@@ -1,4 +1,2 @@
 Title: Just Do it!
-menu: no
-
-{>|} ![Day 0](post-1)
+Menu: no
