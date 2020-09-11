@@ -1,0 +1,6 @@
+Title: Just Do it!!
+Date: 2020-09-11
+tags: - Blogging - CMS - Metadata
+Permalink: Just Do it!!
+
+{>|} ![ Day 0] (post-1)
